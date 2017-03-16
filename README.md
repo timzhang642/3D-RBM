@@ -1,4 +1,5 @@
-# 3D Volumetric Data Reconstruction and Generation with Bernoulli Restricted Boltzmann Machine
+<p>3D Volumetric Data Reconstruction and Generation with Bernoulli Restricted Boltzmann Machine</p>
+<br><br>
 
 Original chair:
 <br>
