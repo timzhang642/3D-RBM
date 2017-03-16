@@ -13,7 +13,7 @@ Reconstructed chair after denoise using morphological operations:
 <br>
 ![](https://github.com/timzhang642/3D-RBM/blob/master/denoised4.gif)
 
-Learned Weights (#115, #283):
+Learned latent features (#115, #283):
 <br>
 ![](https://github.com/timzhang642/3D-RBM/blob/master/filter115.gif)
 ![](https://github.com/timzhang642/3D-RBM/blob/master/filter283.gif)
